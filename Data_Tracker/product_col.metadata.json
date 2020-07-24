@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Data_Tracker.product_col"}],"uuid":"92075d7c57924895ab2ccd1cb2d339d6"}
